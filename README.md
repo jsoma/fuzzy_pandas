@@ -103,6 +103,5 @@ All of these options can be sent as arguments to `fpd.fuzzy_merge`.
 * **ignore_titles** : bool, default False
     - Ignore a predefined list of name titles (such as Mr, Ms, etc)
 * **join** : { 'inner', 'left-outer', 'right-outer', 'full-outer' }
-```
 
 For more how-to information, check out [the examples folder](https://github.com/jsoma/fuzzy_pandas/tree/master/examples) or the [the original repo](https://github.com/maxharlow/csvmatch).
