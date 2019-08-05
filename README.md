@@ -19,10 +19,6 @@ Percy Alleline,London,Tinker
 Roy Bland,London,Soldier
 Toby Esterhase,Vienna,Poorman
 Peter Guillam,Brixton,none
-Bill Haydon,London,Tailor
-Oliver Lacon,London,none
-Jim Prideaux,Slovakia,none
-Connie Sachs,Oxford,none
 ```
 
 And another such as:
@@ -34,13 +30,9 @@ Otto Leipzig,Estonia
 George SMILEY,London
 Peter Guillam,Brixton
 Konny Saks,Oxford
-Saul Enderby,London
-Sam Collins,Vietnam
-Tony Esterhase,Vienna
-Claus Kretzschmar,Hamburg
 ```
 
-You can then find which names are in both files:
+You can then use `fdp.fuzzy_merge` to see which names are in both files:
 
 ```python
 import pandas as pd
@@ -49,13 +41,11 @@ import fuzzy_pandas as fpd
 df1 = pd.read_csv("data1.csv")
 df2 = pd.read_csv("data2.csv")
 
-matches = fpd.fuzzy_merge(df1, df2,
-                          left_on=['name'],
-                          right_on=['Person Name'],
-                          ignore_case=True,
-                          keep='match')
-
-print(matches)
+fpd.fuzzy_merge(df1, df2,
+                left_on=['name'],
+                right_on=['Person Name'],
+                ignore_case=True,
+                keep='match')
 ```
 
 |.|name|Person Name|
@@ -63,9 +53,13 @@ print(matches)
 |0|George Smiley|George SMILEY|
 |1|Peter Guillam|Peter Guillam|
 
-### Options
+That's a terrible, non-fuzzy example, though. Maybe you should hop to the next section if you want something more meaningful?
 
-Dumping this out of the code itself, apologies for lack of pretty formatting.
+## Examples
+
+You can find examples, including different types of matches (edit distance, phonetic, etc), [in this notebook from the examples folder](https://github.com/jsoma/fuzzy_pandas/blob/master/examples/fuzzy_pandas%20examples.ipynb).
+
+## Options
 
 * **left** : DataFrame
 * **right** : DataFrame
