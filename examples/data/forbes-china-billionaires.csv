@@ -1,0 +1,401 @@
+position,rank,name,lastName,uri,imageUri,worth,age,source,industry,gender,squareImage
+1,1,Hui Ka Yan,Hui,hui-ka-yan,hui-ka-yan,42500,60,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcf80dd31358e5b433443f8/416x416.jpg?background=000000&cropX1=949&cropX2=3612&cropY1=6&cropY2=2668
+2,2,Ma Huateng,Ma,ma-huateng,ma-huateng,39000,47,internet media,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf7e914bbe6f78bda59a2d/416x416.jpg?background=000000&cropX1=422&cropX2=3374&cropY1=318&cropY2=3268
+3,3,Jack Ma,Ma,jack-ma,jack-ma,38600,54,e-commerce,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf7de7a7ea43705914d3df/416x416.jpg?background=000000&cropX1=300&cropX2=2832&cropY1=0&cropY2=2534
+4,4,Wang Jianlin,Wang,wang-jianlin,wang-jianlin,25200,64,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcf812fa7ea43705914d453/416x416.jpg?background=000000&cropX1=763&cropX2=2177&cropY1=56&cropY2=1468
+5,5,Wang Wei,Wang,wang-wei,wang-wei,22300,49,package delivery,Service,M,//specials-images.forbesimg.com/imageserve/5bcf84084bbe6f78bda59a7d/416x416.jpg?background=000000&cropX1=417&cropX2=1479&cropY1=196&cropY2=1258
+6,6,Yang Huiyan,Yang,yang-huiyan,yang-huiyan,20700,37,real estate,Real Estate,F,//specials-images.forbesimg.com/imageserve/5a0b1b83a7ea436b47b558ba/416x416.jpg?background=000000&cropX1=1&cropX2=600&cropY1=3&cropY2=602
+7,7,He Xiangjian,He,he-xiangjian,he-xiangjian,18700,76,home appliances,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5bcf819231358e5b4334441e/416x416.jpg?background=000000&cropX1=501&cropX2=2180&cropY1=149&cropY2=1826
+8,8,Robin Li,Li,robin-li,robin-li,17100,50,internet search,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf84514bbe6f78bda59ac2/416x416.jpg?background=000000&cropX1=1294&cropX2=4560&cropY1=0&cropY2=3264
+9,9,William Ding,Ding,william-ding,william-ding,16900,47,online games,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf85184bbe6f78bda59af2/416x416.jpg?background=000000&cropX1=1377&cropX2=3932&cropY1=155&cropY2=2708
+10,10,Li Shufu,Li,li-shufu,li-shufu,16500,55,automobiles,Automotive,M,//specials-images.forbesimg.com/imageserve/5bcf84b931358e5b43344465/416x416.jpg?background=000000&cropX1=1062&cropX2=3351&cropY1=350&cropY2=2637
+11,11,Wang Wenyin,Wang,wang-wenyin,wang-wenyin,13500,51,"mining, copper products",Metals & Mining,M,//specials-images.forbesimg.com/imageserve/5bcf8a4aa7ea43705914d54d/416x416.jpg?background=000000&cropX1=509&cropX2=2220&cropY1=170&cropY2=1882
+12,12,Zhang Zhidong,Zhang,zhang-zhidong,zhang-zhidong,13400,47,internet media,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf8eec31358e5b4334465b/416x416.jpg?background=000000&cropX1=139&cropX2=1113&cropY1=127&cropY2=1102
+13,13,Zhou Qunfei,Zhou,zhou-qunfei,zhou-qunfei,10600,49,smartphone screens,Technology,F,//specials-images.forbesimg.com/imageserve/5bcfa14ca7ea43705914d7fe/416x416.jpg?background=000000&cropX1=681&cropX2=2331&cropY1=308&cropY2=1957
+14,14,Sun Hongbin,Sun,sun-hongbin,sun-hongbin,10400,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcf997b4bbe6f78bda59e20/416x416.jpg?background=000000&cropX1=361&cropX2=2596&cropY1=398&cropY2=2635
+15,15,Gong Hongjia,Gong,gong-hongjia,gong-hongjia,10300,54,video surveillance,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/5bcf94e531358e5b433447ce/416x416.jpg?background=000000&cropX1=296&cropX2=3488&cropY1=14&cropY2=3204
+16,16,Guo Guangchang,Guo,guo-guangchang,guo-guangchang,10000,51,conglomerate,Diversified,M,//specials-images.forbesimg.com/imageserve/5bcf967f31358e5b433447fa/416x416.jpg?background=000000&cropX1=617&cropX2=1954&cropY1=1496&cropY2=2833
+17,17,Xu Shihui,Xu,xu-shihui,xu-shihui,9500,61,"snacks, beverages",Food and Beverage,M,//specials-images.forbesimg.com/imageserve/5a05f0a14bbe6f37dda22921/416x416.jpg?background=000000&cropX1=9&cropX2=4009&cropY1=480&cropY2=4484
+18,18,Liu Qiangdong,Liu,richard-liu-1,richard-liu-1,9400,44,e-commerce,Technology,M,//specials-images.forbesimg.com/imageserve/5bd0707d4bbe6f78bda5a9de/416x416.jpg?background=000000&cropX1=518&cropX2=1459&cropY1=381&cropY2=1322
+19,19,Pan Zhengmin,Pan,pan-zhengmin,pan-zhengmin,9300,49,electronics,Technology,M,//specials-images.forbesimg.com/imageserve/58dbb68531358e58f079d9b2/416x416.jpg?background=000000&cropX1=51&cropX2=956&cropY1=3&cropY2=908
+20,20,Zong Qinghou,Zong,zong-qinghou,zong-qinghou,9100,73,beverages,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/5bcf9256a7ea43705914d66b/416x416.jpg?background=000000&cropX1=768&cropX2=5141&cropY1=36&cropY2=4408
+21,21,Yao Zhenhua,Yao,yao-zhenhua,yao-zhenhua,8200,48,conglomerate,Diversified,M,//specials-images.forbesimg.com/imageserve/562a8d9de4b0ffa7afe63737/416x416.jpg?background=000000&cropX1=50&cropX2=697&cropY1=276&cropY2=924
+22,22,Hui Wing Mau,Hui,hui-wing-mau,hui-wing-mau,7200,68,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/561fab67e4b0ffa7afe5e19a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=48&cropY2=792
+23,23,Sun Piaoyang,Sun,sun-piaoyang,sun-piaoyang,7100,60,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5bcf9178a7ea43705914d65b/416x416.jpg?background=000000&cropX1=724&cropX2=3557&cropY1=0&cropY2=2832
+24,24,Wu Yajun,Wu,wu-yajun,wu-yajun,6900,55,real estate,Real Estate,F,//specials-images.forbesimg.com/imageserve/59e8b2be4bbe6f37dda0c173/416x416.jpg?background=000000&cropX1=600&cropX2=3651&cropY1=485&cropY2=3538
+25,25,Lei Jun,Lei,lei-jun,lei-jun,6800,49,smartphones,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf87644bbe6f78bda59b67/416x416.jpg?background=000000&cropX1=1268&cropX2=4520&cropY1=527&cropY2=3778
+26,26,Yan Zhi,Yan,yan-zhi,yan-zhi,6700,46,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcf9761a7ea43705914d704/416x416.jpg?background=000000&cropX1=278&cropX2=1136&cropY1=51&cropY2=908
+27,27,Zhang Jinmei,Zhang,zhang-jinmei,no-pic-female,6500,,conglomerate,Automotive,F,
+28,28,Liu Yongxing,Liu,liu-yongxing,liu-yongxing,6400,70,diversified,Service,M,//specials-images.forbesimg.com/imageserve/5bcf9afc4bbe6f78bda59e6f/416x416.jpg?background=000000&cropX1=778&cropX2=3654&cropY1=6&cropY2=2880
+29,29,Wang Wenxue,Wang,wang-wenxue,wang-wenxue,6350,51,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/57fcec2e4bbe6f19f2b4eed9/416x416.jpg?background=000000&cropX1=37&cropX2=692&cropY1=192&cropY2=848
+30,30,Wei Jianjun,Wei,wei-jianjun,wei-jianjun,6200,54,automobiles,Automotive,M,//specials-images.forbesimg.com/imageserve/5bcfaebda7ea43705914d9d0/416x416.jpg?background=000000&cropX1=63&cropX2=2720&cropY1=11&cropY2=2667
+31,31,Pang Kang,Pang,pang-kang,no-pic,6000,62,soy sauce maker,Food and Beverage,M,
+32,32,Lin Xiucheng,Lin,lin-xiucheng,lin-xiucheng,5740,63,electronics,Technology,M,http://specials-images.forbesimg.com/imageserve/c6c43100dbae28f161e7055a5e75f340/416x416.jpg?background=000000&cropX1=8&cropX2=591&cropY1=105&cropY2=688
+33,33,Yu Huijiao,Yu,yu-huijiao,yu-huijiao,5720,52,package delivery,Logistics,M,//specials-images.forbesimg.com/imageserve/580933ae31358e238315e67f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=114&cropY2=858
+34,34,Jason Jiang,Jiang,jason-jiang,jason-jiang,5700,46,advertising,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/5bcf9f71a7ea43705914d7c1/416x416.jpg?background=000000&cropX1=850&cropX2=3508&cropY1=396&cropY2=3056
+35,34,Ma Jianrong,Ma,ma-jianrong,ma-jianrong,5700,55,"textiles, apparel",Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/a29c1d54f1f5f3072870b551d2745704/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=37&cropY2=778
+36,36,Chan Laiwa,Chan,chan-laiwa,chan-laiwa,5650,78,real estate,Real Estate,F,//specials-images.forbesimg.com/imageserve/5bcf99d04bbe6f78bda59e2d/416x416.jpg?background=000000&cropX1=8&cropX2=1139&cropY1=32&cropY2=1164
+37,36,Nie Tengyun,Nie,nie-tengyun,no-pic,5650,42,logistics,Service,M,//specials-images.forbesimg.com/imageserve/5bcf9de331358e5b433448f1/416x416.jpg?background=000000&cropX1=301&cropX2=1853&cropY1=9&cropY2=1562
+38,36,Zhang Jindong,Zhang,zhang-jindong,zhang-jindong,5650,55,appliance retailer,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5bcf970d4bbe6f78bda59dcc/416x416.jpg?background=000000&cropX1=413&cropX2=2389&cropY1=0&cropY2=1978
+39,39,Wang Chuanfu,Wang,wang-chuanfu,wang-chuanfu,5600,52,"batteries, automobiles",Automotive,M,//specials-images.forbesimg.com/imageserve/5bcfa1b0a7ea43705914d812/416x416.jpg?background=000000&cropX1=793&cropX2=3695&cropY1=0&cropY2=2902
+40,40,Yu Yong,Yu,yu-yong,no-pic,5400,57,mining,Finance and Investments,M,
+41,41,Lu Zhiqiang,Lu,lu-zhiqiang,lu-zhiqiang,5200,66,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcfb67d31358e5b43344ba8/416x416.jpg?background=000000&cropX1=672&cropX2=3286&cropY1=0&cropY2=2612
+42,41,Yao Liangsong,Yao,yao-liangsong,no-pic,5200,54,furniture,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a0b22bda7ea436b47b559f2/416x416.jpg?background=000000&cropX1=896&cropX2=2137&cropY1=260&cropY2=1501
+43,43,Xu Chuanhua,Xu,xu-chuanhua,no-pic,5100,84,"chemicals, logistics",Manufacturing,M,
+44,44,Zhang Bangxin,Zhang,zhang-bangxin,no-pic,5000,39,after-school tutoring,Service,M,//specials-images.forbesimg.com/imageserve/5bcfa04fa7ea43705914d7d9/416x416.jpg?background=000000&cropX1=0&cropX2=1324&cropY1=31&cropY2=1356
+45,45,Fu Liquan,Fu,fu-liquan,no-pic,4900,51,surveillance equipment,Technology,M,//specials-images.forbesimg.com/imageserve/5a7cb12931358e4955acf6aa/416x416.jpg?background=000000&cropX1=5&cropX2=2500&cropY1=621&cropY2=3117
+46,46,Liu Yonghao,Liu,liu-yonghao,liu-yonghao,4850,67,agribusiness,Service,M,//specials-images.forbesimg.com/imageserve/5bcface631358e5b43344b13/416x416.jpg?background=000000&cropX1=1631&cropX2=4232&cropY1=191&cropY2=2789
+47,47,Zhang Shiping,Zhang,zhang-shiping,zhang-shiping,4800,71,aluminum products,Metals & Mining,M,//specials-images.forbesimg.com/imageserve/5bcf9b7031358e5b433448aa/416x416.jpg?background=000000&cropX1=13&cropX2=3280&cropY1=13&cropY2=3283
+48,48,Jiang Bin,Jiang,jiang-bin,jiang-bin,4700,52,acoustic components,Technology,M,http://specials-images.forbesimg.com/imageserve/33882d7aaf458263cb07411d98863327/416x416.jpg?background=000000&cropX1=151&cropX2=644&cropY1=37&cropY2=530
+49,49,Chu Mang Yee,Chu,chu-mang-yee,chu-mang-yee,4450,59,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/33f3416ee4f4e17cb8ea4cf680b1179c/416x416.jpg?background=000000&cropX1=0&cropX2=688&cropY1=3&cropY2=691
+50,50,Kei Hoi Pang,Kei,kei-hoi-pang,kei-hoi-pang,4400,53,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/1fa4a144289692d99fbce365c9d33f87/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
+51,51,Che Jianxing,Che,che-jianxing,che-jianxing,4300,52,furniture retailing,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5bcf9ff94bbe6f78bda59ecb/416x416.jpg?background=000000&cropX1=637&cropX2=1963&cropY1=16&cropY2=1342
+52,51,Jiang Weiping,Jiang,jiang-weiping,jiang-weiping,4300,63,chemicals,Manufacturing,M,//specials-images.forbesimg.com/imageserve/562e57f2e4b0ffa7afe645f1/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=113&cropY2=854
+53,51,Li Gaiteng,Li,li-gaiteng,no-pic,4300,46,hair dryers,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a904c9d4bbe6f0fa8265ebe/416x416.jpg?background=000000&cropX1=26&cropX2=321&cropY1=38&cropY2=333
+54,54,Liang Wengen,Liang,liang-wengen,liang-wengen,4200,62,construction equipment,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5bcfb22331358e5b43344b70/416x416.jpg?background=000000&cropX1=333&cropX2=3784&cropY1=7&cropY2=3456
+55,55,Ji Changqun,Ji,ji-changqun-1,no-pic,4150,51,real estate,Real Estate,M,
+56,56,Zhou Jianping,Zhou,zhou-jianping,zhou-jianping,4140,58,fashion retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7d28f24bbe6f2652f512b4/416x416.jpg?background=000000&cropX1=0&cropX2=677&cropY1=39&cropY2=716
+57,57,Cai Kui,Cai,cai-kui,cai-kui,4100,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/561fbcbde4b0ffa7afe5e581/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=0&cropY2=744
+58,57,Wang Yusuo,Wang,wang-yusuo,wang-yusuo,4100,54,natural gas distribution,Energy,M,//specials-images.forbesimg.com/imageserve/5bcfa0c331358e5b43344915/416x416.jpg?background=000000&cropX1=681&cropX2=3615&cropY1=13&cropY2=2945
+59,59,Wang Xing,Wang,wang-xing,wang-xing,4050,45,e-commerce,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf9ab74bbe6f78bda59e61/416x416.jpg?background=000000&cropX1=331&cropX2=859&cropY1=244&cropY2=772
+60,60,Ye Chenghai,Ye,ye-chenghai,ye-chenghai,4000,75,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/f4143f928bec51caf481ad44beb7d878/416x416.jpg?background=000000&cropX1=0&cropX2=742&cropY1=180&cropY2=923
+61,60,Zhang Yiming,Zhang,zhang-yiming,no-pic,4000,35,software,Technology,M,//specials-images.forbesimg.com/imageserve/5bcf95eb4bbe6f78bda59d93/416x416.jpg?background=000000&cropX1=1292&cropX2=4301&cropY1=738&cropY2=3744
+62,62,Ke Zunhong,Ke,ke-zunhong,no-pic,3980,64,pharmaceuticals,Healthcare,M,http://specials-images.forbesimg.com/imageserve/5809454531358e238315e7e0/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=174&cropY2=918
+63,63,Fang Wei,Fang,fang-wei,no-pic,3900,45,steel,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5bcfac644bbe6f78bda5a08f/416x416.jpg?background=000000&cropX1=49&cropX2=3382&cropY1=119&cropY2=3455
+64,64,Jiang Rensheng,Jiang,jiang-rensheng,jiang-rensheng,3850,65,vaccine production,Healthcare,M,//specials-images.forbesimg.com/imageserve/3bd114f40e9f923fc68db540a5f793e5/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=32&cropY2=775
+65,65,Cao Longxiang,Cao,cao-longxiang,no-pic,3820,61,pharmaceuticals,Healthcare,M,http://specials-images.forbesimg.com/imageserve/56c68eb1e4b062f6b59a1458/416x416.jpg?background=000000&cropX1=159&cropX2=634&cropY1=305&cropY2=780
+66,66,Liang Xinjun,Liang,liang-xinjun,liang-xinjun,3800,51,conglomerate,Diversified,M,//specials-images.forbesimg.com/imageserve/5a7cd21ca7ea431690130abd/416x416.jpg?background=000000&cropX1=609&cropX2=3589&cropY1=287&cropY2=3264
+67,67,Liu Zhongtian,Liu,liu-zhongtian,liu-zhongtian,3750,54,aluminum products,Manufacturing,M,//specials-images.forbesimg.com/imageserve/43033461aba1cde3e199b2a19b895c5c/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=126&cropY2=870
+68,68,Zhao Tao,Zhao,zhao-tao,zhao-tao,3740,53,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a80f59c4bbe6f2652f543c3/416x416.jpg?background=000000&cropX1=315&cropX2=2923&cropY1=563&cropY2=3172
+69,69,Gao Tianguo,Gao,gao-tianguo,no-pic,3700,67,"real estate, finance",Real Estate,M,
+70,69,Zhang Xin,Zhang,zhang-xin,zhang-xin,3700,53,real estate,Real Estate,F,//specials-images.forbesimg.com/imageserve/5bcfb90aa7ea43705914da5a/416x416.jpg?background=000000&cropX1=1617&cropX2=3440&cropY1=640&cropY2=2462
+71,71,Huang Rulun,Huang,huang-rulun,huang-rulun,3650,67,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5d24e1fe2ea1ddd9a7543aacb08daff5/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=3&cropY2=747
+72,71,Li Wa,Li,li-wa,li-wa,3650,53,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/1d225270d1a088f84333d4b2d0d6932a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=190&cropY2=934
+73,73,Chen Dongsheng,Chen,chen-dongsheng,no-pic,3600,61,insurance,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/5bcfa21f31358e5b43344962/416x416.jpg?background=000000&cropX1=0&cropX2=3856&cropY1=262&cropY2=4121
+74,73,Sun Guangxin,Sun,sun-guangxin,sun-guangxin,3600,56,diversified,Diversified,M,//specials-images.forbesimg.com/imageserve/5bcfcc6ea7ea43705914dba1/416x416.jpg?background=000000&cropX1=852&cropX2=4112&cropY1=21&cropY2=3280
+75,73,Zhang Jin,Zhang,zhang-jin,no-pic,3600,47,diversified,Diversified,M,
+76,76,Lu Xiangyang,Lu,lu-xiangyang,lu-xiangyang,3500,56,"automobiles, batteries",Automotive,M,//specials-images.forbesimg.com/imageserve/56c67d68e4b062f6b59a141e/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=168&cropY2=911
+77,76,Zhang Fan,Zhang,zhang-fan,no-pic,3500,53,touch screens,Technology,M,
+78,78,Xu Jingren,Xu,xu-jingren,xu-jingren,3450,74,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a05ffc4a7ea436b47b53402/416x416.jpg?background=000000&cropX1=450&cropX2=3283&cropY1=0&cropY2=2832
+79,79,He Qiaonv,He,he-qiaonv,he-qiaonv,3400,52,landscape architecture,Service,F,//specials-images.forbesimg.com/imageserve/589cfcd8a7ea431f32192891/416x416.jpg?background=000000&cropX1=92&cropX2=744&cropY1=147&cropY2=800
+80,79,Ma Xiuhui,Ma,ma-xiuhui,ma-xiuhui,3400,48,LED lighting,Manufacturing,F,//specials-images.forbesimg.com/imageserve/5a0b26d3a7ea436b47b55a42/416x416.jpg?background=000000&cropX1=123&cropX2=2403&cropY1=105&cropY2=2386
+81,81,Li Shuirong,Li,li-shuirong,li-shuirong,3380,62,petrochemicals,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7ccb71a7ea4316901309e5/416x416.jpg?background=000000&cropX1=271&cropX2=2191&cropY1=3&cropY2=1925
+82,82,Shi Yuzhu,Shi,shi-yuzhu,shi-yuzhu,3350,56,"online games, investments",Diversified,M,//specials-images.forbesimg.com/imageserve/5a7cecbb4bbe6f2652f51076/416x416.jpg?background=000000&cropX1=391&cropX2=2589&cropY1=9&cropY2=2206
+83,83,Qiu Guanghe,Qiu,qiu-guanghe,qiu-guanghe,3300,67,fashion retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5bcfae7b31358e5b43344b26/416x416.jpg?background=000000&cropX1=256&cropX2=1423&cropY1=0&cropY2=1166
+84,83,Wang Jian,Wang,wang-jian-1,wang-jian-1,3300,65,healthcare services,Technology,M,//specials-images.forbesimg.com/imageserve/5a875bad31358e4955ada843/416x416.jpg?background=000000&cropX1=5&cropX2=1193&cropY1=271&cropY2=1459
+85,83,Zhang Li,Zhang,zhang-li,zhang-li,3300,66,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589f297d31358e1a35ab26d9/416x416.jpg?background=000000&cropX1=85&cropX2=739&cropY1=3&cropY2=657
+86,86,Lai Meisong,Lai,lai-meisong,no-pic,3250,48,package delivery,Logistics,M,//specials-images.forbesimg.com/imageserve/58c33d4131358e1a35acccef/416x416.jpg?background=000000&cropX1=47&cropX2=744&cropY1=201&cropY2=899
+87,87,Ji Qi,Ji,ji-qi,no-pic,3200,52,"hotels, motels",Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7ce58d4bbe6f2652f50fbb/416x416.jpg?background=000000&cropX1=666&cropX2=3004&cropY1=0&cropY2=2336
+88,87,Frank Wang,Wang,frank-wang,frank-wang,3200,38,drones,Technology,M,http://specials-images.forbesimg.com/imageserve/57a3950331358e4fd70bee4d/416x416.jpg?background=000000&cropX1=50&cropX2=631&cropY1=35&cropY2=617
+89,89,Qin Yinglin,Qin,qin-yinglin,qin-yinglin,3150,53,pig breeding,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/a3722ff48b63420aa857d7c876d5c521/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=6&cropY2=746
+90,90,Chen Fashu,Chen,chen-fashu,chen-fashu,3100,58,investments,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/9c4a0c1973e27328429243fc03202ab6/416x416.jpg?background=000000&cropX1=144&cropX2=839&cropY1=103&cropY2=798
+91,90,Ma Xingtian,Ma,ma-xingtian,ma-xingtian,3100,49,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/53248972c5824d9bcf7c7db5aecfbf2d/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=3&cropY2=747
+92,92,Ren Jianhua,Ren,ren-jianhua,ren-jianhua,3050,62,kitchen appliances,Manufacturing,M,//specials-images.forbesimg.com/imageserve/562a5a9ee4b0ffa7afe63015/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=84&cropY2=827
+93,93,Chen Bang,Chen,chen-bang,chen-bang,3030,53,hospitals,Healthcare,M,//specials-images.forbesimg.com/imageserve/2b6a0c7bcd0e173f3b342365e3667d14/416x416.jpg?background=000000&cropX1=27&cropX2=705&cropY1=63&cropY2=741
+94,94,Wang Laichun,Wang,wang-laichun,no-pic-female,3000,51,electronics components,Technology,F,//specials-images.forbesimg.com/imageserve/5a061b9131358e542c051d82/416x416.jpg?background=000000&cropX1=74&cropX2=842&cropY1=25&cropY2=794
+95,94,Wang Laisheng,Wang,wang-laisheng,no-pic,3000,54,electronics components,Technology,M,
+96,94,Simon Xie,Xie,simon-xie,simon-xie,3000,49,online payment service,Technology,M,//specials-images.forbesimg.com/imageserve/eb0f2e7c5736b370425f7365da5bacad/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=76&cropY2=820
+97,97,Ding Shizhong,Ding,ding-shizhong,ding-shizhong,2900,48,sports apparel,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5bcfccd831358e5b43344c7d/416x416.jpg?background=000000&cropX1=322&cropX2=845&cropY1=150&cropY2=673
+98,98,Ding Shijia,Ding,ding-shijia,no-pic,2800,55,sportswear,Fashion & Retail,M,
+99,98,Huang Shih Tsai,Huang,huang-shih-tsai,huang-shih-tsai,2800,67,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/ea3db0dc53d296877dc4d8565c7627ef/416x416.jpg?background=000000&cropX1=0&cropX2=600&cropY1=93&cropY2=693
+100,98,Song Zuowen,Song,song-zuowen,song-zuowen,2800,71,"aluminum, diversified",Diversified,M,//specials-images.forbesimg.com/imageserve/75720eea78ab6bb082b46a10cf4bce3a/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
+101,101,Zuo Hui,Zuo,zuo-hui,no-pic,2750,48,real estate services,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7d2a69a7ea431690130f2b/416x416.jpg?background=000000&cropX1=1155&cropX2=3526&cropY1=359&cropY2=2729
+102,102,Du Jiangtao,Du,du-jiangtao,du-jiangtao,2700,49,chemicals,Manufacturing,M,//specials-images.forbesimg.com/imageserve/562029ede4b0ffa7afe5eb62/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=58&cropY2=802
+103,103,Jacky Xu,Xu,jacky-xu,no-pic,2690,47,apparel,Fashion & Retail,M,
+104,103,Xu Xudong,Xu,xu-xudong,no-pic,2690,48,auto parts,Automotive,M,
+105,105,Huang Wei,Huang,huang-wei,no-pic,2670,59,real estate,Real Estate,M,
+106,106,Feng Hailiang,Feng,feng-hailiang,feng-hailiang,2600,58,"copper, education",Metals & Mining,M,//specials-images.forbesimg.com/imageserve/5bcfb86d31358e5b43344bc9/416x416.jpg?background=000000&cropX1=148&cropX2=845&cropY1=5&cropY2=702
+107,106,Li Li,Li,li-li-2,li-li-2,2600,54,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/69dcd58a6e2fc405ce93ec3eeb8e051a/416x416.jpg?background=000000&cropX1=21&cropX2=731&cropY1=55&cropY2=766
+108,106,Zhang Wenzhong,Zhang,zhang-wenzhong,no-pic,2600,57,Retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7d249b4bbe6f2652f51279/416x416.jpg?background=000000&cropX1=0&cropX2=1146&cropY1=89&cropY2=1235
+109,109,Chen Jianhua,Chen,chen-jianhua,chen-jianhua,2590,48,chemicals,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7c84c34bbe6f2652f500c1/416x416.jpg?background=000000&cropX1=456&cropX2=3051&cropY1=6&cropY2=2598
+110,109,Ni Zugen,Ni,ni-zugen,no-pic,2590,61,appliances,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a9725ac4bbe6f0fa826ee2b/416x416.jpg?background=000000&cropX1=54&cropX2=1245&cropY1=217&cropY2=1408
+111,111,Sze Man Bok,Sze,sze-man-bok,sze-man-bok,2580,69,hygiene products,Manufacturing,M,//specials-images.forbesimg.com/imageserve/c3653c28ec41a0342432ee78a9d95c46/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=6&cropY2=747
+112,112,Hui Lin Chit,Hui,hui-lin-chit,hui-lin-chit,2570,65,hygiene products,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7cbadc31358e4955acf7c0/416x416.jpg?background=000000&cropX1=632&cropX2=3041&cropY1=5&cropY2=2412
+113,113,Shen Wenrong,Shen,shen-wenrong,shen-wenrong,2530,72,steel production,Metals & Mining,M,//specials-images.forbesimg.com/imageserve/5a7cec5ba7ea431690130cd9/416x416.jpg?background=000000&cropX1=14&cropX2=2681&cropY1=542&cropY2=3207
+114,114,Lin Zhong,Lin,lin-zhong,no-pic,2520,50,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589d2201a7ea431f321929d4/416x416.jpg?background=000000&cropX1=159&cropX2=602&cropY1=89&cropY2=532
+115,115,Xu Bo,Xu,xu-bo,no-pic,2500,41,mobile games,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/59fb37f24bbe6f37dda19944/416x416.jpg?background=000000&cropX1=119&cropX2=741&cropY1=79&cropY2=701
+116,116,Cho Tak Wong,Cho,cho-tak-wong,cho-tak-wong,2490,72,auto parts,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7e6847a7ea431690132502/416x416.jpg?background=000000&cropX1=339&cropX2=1769&cropY1=0&cropY2=1429
+117,117,Yu Minhong,Yu,yu-minhong,yu-minhong,2440,57,education,Service,M,//specials-images.forbesimg.com/imageserve/5a7d1c54a7ea431690130e7f/416x416.jpg?background=000000&cropX1=681&cropX2=2599&cropY1=170&cropY2=2087
+118,118,Wu Lanlan,Wu,wu-lanlan,no-pic-female,2420,45,packaging,Manufacturing,F,
+119,119,Lei Jufang,Lei,lei-jufang,lei-jufang,2410,66,pharmaceuticals,Healthcare,F,//specials-images.forbesimg.com/imageserve/178c9756ea81a7e86d7fb10dd7be09b9/416x416.jpg?background=000000&cropX1=35&cropX2=719&cropY1=42&cropY2=727
+120,120,Lam Kong,Lam,lam-kong,lam-kong,2390,54,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/18557d61bfcbfb0783aebace2f7f4d6b/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
+121,121,Wu Jianshu,Wu,wu-jianshu,no-pic,2380,55,auto parts,Automotive,M,
+122,122,Chu Lam Yiu,Chu,chu-lam-yiu,chu-lam-yiu,2370,49,flavorings,Manufacturing,F,//specials-images.forbesimg.com/imageserve/913c271ffb6af89c53465bf2b73b8992/416x416.jpg?background=000000&cropX1=34&cropX2=623&cropY1=0&cropY2=590
+123,122,Qiu Jianping,Qiu,qiu-jianping,qiu-jianping,2370,56,hand tools,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7ce9e3a7ea431690130cc5/416x416.jpg?background=000000&cropX1=730&cropX2=3332&cropY1=231&cropY2=2832
+124,122,Zhu Xingliang,Zhu,zhu-xingliang,zhu-xingliang,2370,59,construction,Construction & Engineering,M,//specials-images.forbesimg.com/imageserve/f893b3ba5dfb8226119a6f70602a1477/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=121&cropY2=865
+125,125,Xiao Wenge,Xiao,xiao-wenge,xiao-wenge,2360,52,entertainment,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/b503b236a2b585fd51be8e054fcf03b3/416x416.jpg?background=000000&cropX1=127&cropX2=739&cropY1=124&cropY2=736
+126,126,Qi Shi,Qi,qi-shi,qi-shi,2330,49,financial information,Technology,M,//specials-images.forbesimg.com/imageserve/57a3b4d7a7ea4337c2cef3c2/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
+127,126,Zhu Gongshan,Zhu,zhu-gongshan,zhu-gongshan,2330,61,solar panel materials,Manufacturing,M,//specials-images.forbesimg.com/imageserve/6f98bef92dfa940abaa376847526947c/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=66&cropY2=810
+128,128,Gu Yuhua,Gu,gu-yuhua,no-pic,2320,69,furniture,Manufacturing,M,
+129,128,Xiong Xuqiang,Xiong,xiong-xuqiang,xiong-xuqiang,2320,62,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/6ce9fb50a8c04c7a7738cc48510c1582/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=208&cropY2=952
+130,128,Xue Xiangdong,Xue,xue-xiangdong,xue-xiangdong,2320,59,software,Technology,M,//specials-images.forbesimg.com/imageserve/5a7d1709a7ea431690130e31/416x416.jpg?background=000000&cropX1=645&cropX2=2738&cropY1=475&cropY2=2570
+131,131,Xiao Yongming,Xiao,xiao-yongming,no-pic,2310,54,fertilizer,Diversified,M,
+132,132,Chen Qingzhou,Chen,chen-qingzhou,no-pic,2300,53,communications equipment,Telecom,M,
+133,132,Cheung Yan,Cheung,cheung-yan,cheung-yan,2300,61,paper manufacturing,Manufacturing,F,//specials-images.forbesimg.com/imageserve/5a7d1825a7ea431690130e64/416x416.jpg?background=000000&cropX1=629&cropX2=3286&cropY1=11&cropY2=2667
+134,132,Shen Yuxing,Shen,shen-yuxing,no-pic,2300,60,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5bcfaddaa7ea43705914d9c5/416x416.jpg?background=000000&cropX1=2&cropX2=337&cropY1=56&cropY2=391
+135,135,Chen Jinxia,Chen,chen-jinxia,no-pic-female,2290,50,investments,Finance and Investments,F,
+136,136,Chen Hua,Chen,chen-hua-1,chen-hua-1,2280,53,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7bc51831358e4955ace3a9/416x416.jpg?background=000000&cropX1=6&cropX2=2735&cropY1=955&cropY2=3686
+137,137,Lv Li,Lv,lv-li,no-pic-female,2270,42,Electronics,Technology,F,
+138,138,Tong Jinquan,Tong,tong-jinquan,no-pic,2250,64,real estate,Real Estate,M,
+139,139,Wu Zhigang,Wu,wu-zhigang,no-pic,2240,84,bakery chain,Food and Beverage,M,
+140,140,Wang Yanqing,Wang,wang-yanqing,no-pic,2230,52,electrical equipment,Manufacturing,M,
+141,141,Ren Zhengfei,Ren,ren-zhengfei,ren-zhengfei,2180,75,telecom equipment,Telecom,M,//specials-images.forbesimg.com/imageserve/5bcfc85f4bbe6f78bda5a21a/416x416.jpg?background=000000&cropX1=0&cropX2=1997&cropY1=129&cropY2=2126
+142,142,Lin Li,Lin,lin-li,no-pic,2170,55,investments,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/58c338ac4bbe6f0e55885d28/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=118&cropY2=862
+143,143,Li Liangbin,Li,li-liangbin,no-pic,2160,51,lithium,Manufacturing,M,
+144,144,Shen Guojun,Shen,shen-guojun,shen-guojun,2130,56,retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7cec0b31358e4955acfc0e/416x416.jpg?background=000000&cropX1=484&cropX2=1908&cropY1=142&cropY2=1566
+145,145,Li Zhongchu,Li,li-zhongchu,no-pic,2120,55,software,Technology,M,
+146,146,Geng Jianming,Geng,geng-jianming,geng-jianming,2110,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/fc83e75cfd66a510511d074e06658adc/416x416.jpg?background=000000&cropX1=0&cropX2=709&cropY1=52&cropY2=761
+147,147,Huang Zhenda,Huang,huang-zhenda,huang-zhenda,2100,71,construction,Construction & Engineering,M,//specials-images.forbesimg.com/imageserve/102108d15afa7dd7e7a7e1fbcda3d866/416x416.jpg?background=000000&cropX1=129&cropX2=694&cropY1=151&cropY2=717
+148,147,Liu Ming Hui,Liu,liu-ming-hui,liu-ming-hui,2100,56,natural gas distribution,Energy,M,//specials-images.forbesimg.com/imageserve/5a7cda0fa7ea431690130b75/416x416.jpg?background=000000&cropX1=1126&cropX2=3692&cropY1=63&cropY2=2627
+149,147,Zhang Xiugen,Zhang,zhang-xiugen,no-pic,2100,58,automobiles,Automotive,M,//specials-images.forbesimg.com/imageserve/589f2ba431358e1a35ab26e5/416x416.jpg?background=000000&cropX1=3&cropX2=689&cropY1=2&cropY2=688
+150,150,Wang Xicheng,Wang,wang-xicheng,no-pic,2070,70,tires,Manufacturing,M,
+151,151,Yuan Yafei,Yuan,yuan-yafei,yuan-yafei,2040,55,"retail, investments",Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7d1d1a4bbe6f2652f5122c/416x416.jpg?background=000000&cropX1=10&cropX2=2400&cropY1=226&cropY2=2617
+152,152,Cai Wensheng,Cai,cai-wensheng,no-pic,2030,49,photo sharing app,Technology,M,//specials-images.forbesimg.com/imageserve/5a7bbf214bbe6f2652f4f48f/416x416.jpg?background=000000&cropX1=1571&cropX2=3988&cropY1=223&cropY2=2639
+153,152,Li Liufa,Li,li-liufa,li-liufa,2030,61,"steel, diversified",Diversified,M,//specials-images.forbesimg.com/imageserve/55d49edee4b0ffa7afe3f846/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=47&cropY2=788
+154,152,Su Suyu,Su,su-suyu,no-pic-female,2030,70,"utilities, real estate",Real Estate,F,
+155,152,Ye Cheng,Ye,ye-cheng,no-pic,2030,57,conglomerate,Diversified,M,
+156,156,Mao Lixiang,Mao,mao-lixiang,no-pic,2000,78,cooking appliances,Technology,M,//specials-images.forbesimg.com/imageserve/5a875b264bbe6f2652f5cbad/416x416.jpg?background=000000&cropX1=0&cropX2=1360&cropY1=110&cropY2=1471
+157,157,Jiang Yehua,Jiang,jiang-yehua,jiang-yehua,1990,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589d078d4bbe6f0e55866b49/416x416.jpg?background=000000&cropX1=60&cropX2=562&cropY1=79&cropY2=582
+158,157,Zhu Baoguo,Zhu,zhu-baoguo,zhu-baoguo,1990,56,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/589f386aa7ea431f3219482d/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=18&cropY2=758
+159,159,Cheng Xue,Cheng,cheng-xue,no-pic-female,1960,48,soy sauce,Food and Beverage,F,
+160,159,Zhou Yaoting,Zhou,zhou-yaoting,no-pic,1960,75,"apparel, real estate",Diversified,M,
+161,161,Li Xiting,Li,li-xiting,no-pic,1950,68,medical devices,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a8df8dc31358e4955adffa6/416x416.jpg?background=000000&cropX1=491&cropX2=3171&cropY1=0&cropY2=2677
+162,162,Wang Zhenhua,Wang,wang-zhenhua,no-pic,1940,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7d074831358e4955acfcd6/416x416.jpg?background=000000&cropX1=15&cropX2=474&cropY1=136&cropY2=595
+163,163,An Kang,An,an-kang,an-kang,1930,70,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a7bbd8831358e4955ace31a/416x416.jpg?background=000000&cropX1=377&cropX2=2396&cropY1=55&cropY2=2073
+164,163,Wu Liangding,Wu,wu-liangding,no-pic,1930,72,wheel production,Automotive,M,
+165,165,Chen Qixing,Chen,chen-qixing,no-pic,1910,59,electronics components,Technology,M,
+166,166,Huang Hongyun,Huang,huang-hongyun,huang-hongyun,1900,52,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7cb74031358e4955acf786/416x416.jpg?background=000000&cropX1=644&cropX2=3465&cropY1=12&cropY2=2832
+167,166,Ning Tang,Tang,ning-tang,no-pic,1900,45,online lending,Finance and Investments,M,
+168,166,Zheng Yuewen,Zheng,zheng-yuewen,zheng-yuewen,1900,57,investments,Diversified,M,//specials-images.forbesimg.com/imageserve/56c68422e4b062f6b59a143c/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=31&cropY2=774
+169,169,Dong Wei,Dong,dong-wei-2,no-pic,1890,48,pharmaceuticals,Healthcare,M,
+170,169,Hu Kaijun,Hu,hu-kaijun,no-pic,1890,57,pharmaceuticals,Healthcare,M,
+171,169,Miao Shouliang,Miao,miao-shouliang,miao-shouliang,1890,64,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589d2e55a7ea431f32192a5e/416x416.jpg?background=000000&cropX1=29&cropX2=723&cropY1=103&cropY2=798
+172,172,Huang Yi,Huang,huang-yi,no-pic,1870,57,auto distribution,Automotive,M,//specials-images.forbesimg.com/imageserve/601330d5e69781741753b1f2f5975025/416x416.jpg?background=000000&cropX1=52&cropX2=333&cropY1=13&cropY2=294
+173,172,Sun Qinghuan,Sun,sun-qinghuan,no-pic,1870,45,lighting,Technology,M,
+174,172,Zhang Daocai,Zhang,zhang-daocai,no-pic,1870,69,valves,Diversified,M,
+175,175,Wei Shaojun,Wei,wei-shaojun,wei-shaojun,1860,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/6831d2c5e08db906f140f99ef0391369/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=40&cropY2=784
+176,176,Wu Guangming,Wu,wu-guangming,wu-guangming,1850,56,medical equipment,Healthcare,M,//specials-images.forbesimg.com/imageserve/88d81f9606a4339ce991b3b4fe569c67/416x416.jpg?background=000000&cropX1=68&cropX2=738&cropY1=93&cropY2=763
+177,177,Chen Dejun,Chen,chen-dejun,no-pic,1840,48,package delivery,Logistics,M,//specials-images.forbesimg.com/imageserve/5a7bc3aaa7ea43169012f455/416x416.jpg?background=000000&cropX1=1668&cropX2=3076&cropY1=179&cropY2=1585
+178,178,Xie Zhikun,Xie,xie-zhikun,no-pic,1830,58,investments,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/58135cee31358e2383163cfc/416x416.jpg?background=000000&cropX1=126&cropX2=677&cropY1=89&cropY2=640
+179,179,Wang Wenjing,Wang,wang-wenjing,wang-wenjing,1820,54,business software,Technology,M,//specials-images.forbesimg.com/imageserve/589de75931358e1a35ab137c/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=44&cropY2=787
+180,179,Wong Luen Hei,Wong,wong-luen-hei,wong-luen-hei,1820,57,building materials,Manufacturing,M,//specials-images.forbesimg.com/imageserve/561fbe7de4b0ffa7afe5e598/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=5&cropY2=749
+181,181,Lin Jianhua,Lin,lin-jianhua,lin-jianhua,1810,56,solar panel components,Manufacturing,M,//specials-images.forbesimg.com/imageserve/56c704e4e4b062f6b59a187d/416x416.jpg?background=000000&cropX1=0&cropX2=742&cropY1=208&cropY2=951
+182,181,Wang Changtian,Wang,wang-changtian,wang-changtian,1810,53,"TV, movie production",Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/5a7cf2ad4bbe6f2652f510b3/416x416.jpg?background=000000&cropX1=3&cropX2=1134&cropY1=6&cropY2=1138
+183,181,Wu Xushun,Wu,wu-xushun,no-pic,1810,70,"internet, auto parts",Diversified,M,
+184,184,Liu Zhiqiang,Liu,liu-zhiqiang,liu-zhiqiang,1800,54,conglomerate,Diversified,M,
+185,184,Ma Hong,Ma,ma-hong,no-pic,1800,51,fashion retail,Fashion & Retail,M,
+186,184,Wong Kwong Yu,Wong,wong-kwong-yu,wong-kwong-yu,1800,49,retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7d09b131358e4955acfcf0/416x416.jpg?background=000000&cropX1=9&cropX2=1559&cropY1=33&cropY2=1584
+187,187,Cui Genliang,Cui,cui-genliang,cui-genliang,1790,60,electric components,Manufacturing,M,//specials-images.forbesimg.com/imageserve/589cf15ba7ea431f32192819/416x416.jpg?background=000000&cropX1=13&cropX2=715&cropY1=84&cropY2=787
+188,187,Ke Xiping,Ke,ke-xiping,ke-xiping,1790,58,investments,Diversified,M,//specials-images.forbesimg.com/imageserve/56292849e4b0ffa7afe6288d/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=6&cropY2=750
+189,187,Wang Qingtao,Wang,wang-qingtao,no-pic,1790,56,steel smelting,Metals & Mining,M,//specials-images.forbesimg.com/imageserve/589de4a6a7ea431f3219329f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=126&cropY2=870
+190,190,Li Ge,Li,li-ge-1,no-pic,1780,52,biotech,Healthcare,M,//specials-images.forbesimg.com/imageserve/5bcfb28831358e5b43344b98/416x416.jpg?background=000000&cropX1=212&cropX2=1781&cropY1=502&cropY2=2073
+191,190,Yi Zheng,Yi,yi-zheng,no-pic,1780,48,software,Technology,M,
+192,192,Su Weizhong,Su,su-weizhong,no-pic,1770,50,"oil, fertilizers",Energy,M,
+193,193,Dou Zhenggang,Dou,dou-zhenggang,no-pic,1760,65,"energy, chemicals",Diversified,M,
+194,193,Li Hongxin,Li,li-hongxin,no-pic,1760,65,paper & related products,Manufacturing,M,//specials-images.forbesimg.com/imageserve/bcf772256ab66402949eef9d69e6e20f/416x416.jpg?background=000000&cropX1=2&cropX2=600&cropY1=0&cropY2=598
+195,193,Li San Yim,Li,li-san-yim,li-san-yim,1760,69,construction equipment,Manufacturing,M,//specials-images.forbesimg.com/imageserve/97b447d9341c0dc4243090e2375556f3/416x416.jpg?background=000000&cropX1=8&cropX2=617&cropY1=10&cropY2=619
+196,196,Wang Jianfeng,Wang,wang-jianfeng,no-pic,1740,49,auto parts,Automotive,M,
+197,196,Wang Qunbin,Wang,wang-qunbin,no-pic,1740,49,conglomerate,Diversified,M,//specials-images.forbesimg.com/imageserve/5a7cf9434bbe6f2652f510e6/416x416.jpg?background=000000&cropX1=1931&cropX2=3868&cropY1=662&cropY2=2598
+198,196,Zhang Xuansong,Zhang,zhang-xuansong,zhang-xuansong,1740,47,supermarket,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a875e204bbe6f2652f5cc36/416x416.jpg?background=000000&cropX1=115&cropX2=1725&cropY1=348&cropY2=1960
+199,199,Liu Hanyuan,Liu,liu-hanyuan,no-pic,1730,55,agribusiness,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/589d23b131358e1a35ab0b56/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=90&cropY2=831
+200,199,Yang Erzhu,Yang,yang-erzhu,no-pic,1730,68,real estate,Real Estate,M,
+201,201,Zhou Xiaoguang,Zhou,zhou-xiaoguang,zhou-xiaoguang,1720,57,real estate,Real Estate,F,//specials-images.forbesimg.com/imageserve/f3003f57a1ce583755a240f1d66540ee/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=85&cropY2=826
+202,202,Chen Xiaoying,Chen,chen-xiaoying,no-pic-female,1700,42,package delivery,Logistics,F,
+203,202,Chen Xueli,Chen,chen-xueli,no-pic,1700,67,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a7c85daa7ea43169013019b/416x416.jpg?background=000000&cropX1=527&cropX2=2418&cropY1=8&cropY2=1897
+204,202,Kong Jian Min,Kong,kong-jian-min,kong-jian-min,1700,51,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/58a658d831358e1a35ab8d3a/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=10&cropY2=754
+205,205,Chen Feng,Chen,chen-feng-1,no-pic,1690,65,conglomerate,Diversified,M,
+206,205,Du Weimin,Du,du-weimin,no-pic,1690,55,vaccines,Healthcare,M,
+207,205,Wang Jian,Wang,wang-jian-3,no-pic,1690,57,conglomerate,Diversified,M,
+208,205,Wu Yulan,Wu,wu-yulan,no-pic-female,1690,49,pharmaceuticals,Healthcare,F,
+209,209,Liang Yunchao,Liang,liang-yunchao,liang-yunchao,1680,50,nutrition supplements,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/05045a69750222dbe55bce25e523ad1c/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=224&cropY2=965
+210,210,Chen Zhuolin,Chen,chen-zhuolin,chen-zhuolin,1670,56,real estate,Real Estate,M,
+211,211,Yuan Fugen,Yuan,yuan-fugen,no-pic,1660,68,metal processing,Manufacturing,M,
+212,212,Li Yong,Li,li-yong-1,no-pic,1650,41,chemicals,Manufacturing,M,
+213,212,Xu Hang,Xu,xu-hang,no-pic,1650,52,medical devices,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a8dfac04bbe6f2652f62cb1/416x416.jpg?background=000000&cropX1=727&cropX2=3713&cropY1=0&cropY2=2984
+214,212,Yang Meirong,Yang,yang-meirong,no-pic-female,1650,,education,Service,F,
+215,212,Zhao Yan,Zhao,zhao-yan,no-pic-female,1650,52,"real estate, finance",Diversified,F,
+216,216,Jiang Yintai,Jiang,jiang-yintai,no-pic,1640,68,auto parts,Automotive,M,
+217,216,Pan Weiming,Pan,pan-weiming,pan-weiming,1640,55,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/56c7548ee4b062f6b59a1c94/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=5&cropY2=748
+218,218,Lam Lung On,Lam,lam-lung-on,no-pic,1630,54,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589d0b2c31358e1a35ab0acb/416x416.jpg?background=000000&cropX1=21&cropX2=715&cropY1=56&cropY2=751
+219,218,William Li,Li,william-li,no-pic,1630,44,automobiles,Automotive,M,//specials-images.forbesimg.com/imageserve/5a86c00e31358e4955ad9b06/416x416.jpg?background=000000&cropX1=446&cropX2=2439&cropY1=9&cropY2=2000
+220,218,Liu Baolin,Liu,liu-baolin,liu-baolin,1630,65,pharmacies,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/0cbb1af7d866aae7ae316d58d6f367e8/416x416.jpg?background=000000&cropX1=81&cropX2=741&cropY1=5&cropY2=666
+221,218,Zhou Chengjian,Zhou,zhou-chengjian,zhou-chengjian,1630,53,fashion retail,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7d285331358e4955acfe2b/416x416.jpg?background=000000&cropX1=1821&cropX2=5472&cropY1=0&cropY2=3648
+222,222,He Ningning,He,he-ningning,no-pic,1620,48,manufacturing,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7cb3fd31358e4955acf720/416x416.jpg?background=000000&cropX1=0&cropX2=339&cropY1=46&cropY2=385
+223,222,Huang Chulong,Huang,huang-chulong,huang-chulong,1620,60,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7bac5a4bbe6f2652f4f33d/416x416.jpg?background=000000&cropX1=9&cropX2=1944&cropY1=139&cropY2=2073
+224,222,Zhang Wanzhen,Zhang,zhang-wanzhen,no-pic,1620,69,electronic components,Manufacturing,M,
+225,225,Chi Yufeng,Chi,chi-yufeng,no-pic,1610,48,software,Technology,M,//specials-images.forbesimg.com/imageserve/5a7c866da7ea4316901301c5/416x416.jpg?background=000000&cropX1=2189&cropX2=5760&cropY1=247&cropY2=3816
+226,225,Sun Shoukuan,Sun,sun-shoukuan,sun-shoukuan,1610,69,metals. coal,Manufacturing,M,//specials-images.forbesimg.com/imageserve/64f4574ad7b5505ab16f5d497d87e711/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
+227,227,Li Weiwei,Li,li-weiwei,no-pic,1600,42,online games,Technology,M,
+228,227,Wang Chaobin,Wang,wang-chaobin,wang-chaobin,1600,63,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/562e5709e4b0ffa7afe645de/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=103&cropY2=846
+229,229,Chan Hung To,Chan,chan-hung-to,no-pic,1590,,beverages,Food and Beverage,M,
+230,229,Huo Qinghua,Huo,huo-qinghua,no-pic,1590,57,coal,Energy,M,
+231,229,Jiang Wei,Jiang,jiang-wei,jiang-wei,1590,57,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/f9d6a064550c4c3c3bda90dae6c1efe2/416x416.jpg?background=000000&cropX1=39&cropX2=744&cropY1=32&cropY2=738
+232,232,Che Fengsheng,Che,che-fengsheng,che-fengsheng,1570,56,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/871285167e7dcc8b92191ae50f6c442b/416x416.jpg?background=000000&cropX1=27&cropX2=695&cropY1=0&cropY2=669
+233,232,Cheng Xianfeng,Cheng,cheng-xianfeng,no-pic,1570,50,pharmaceuticals,Healthcare,M,
+234,232,Tse Ping,Tse,tse-ping,tse-ping,1570,67,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5bcfb7584bbe6f78bda5a116/416x416.jpg?background=000000&cropX1=609&cropX2=3747&cropY1=0&cropY2=3136
+235,235,Wang Muqing,Wang,wang-muqing,no-pic,1560,68,auto distribution,Automotive,M,
+236,235,Zhang Guiping,Zhang,zhang-guiping,zhang-guiping,1560,67,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/beb773dd7c933c68e881a0d5b72f89ae/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=3&cropY2=744
+237,235,Zhu Wenchen,Zhu,zhu-wenchen,zhu-wenchen,1560,53,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/2ab35b49b2ece993fb88ee046c098dea/416x416.jpg?background=000000&cropX1=42&cropX2=744&cropY1=44&cropY2=747
+238,238,Chen Tianqiao,Chen,chen-tianqiao,chen-tianqiao,1550,45,online games,Technology,M,
+239,238,Qi Jinxing,Qi,qi-jinxing,qi-jinxing,1550,56,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7ce86231358e4955acfbed/416x416.jpg?background=000000&cropX1=28&cropX2=3368&cropY1=952&cropY2=4290
+240,238,Zhang Cheng Fei,Zhang,zhang-cheng-fei,no-pic,1550,51,paper & related products,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7d201f31358e4955acfda0/416x416.jpg?background=000000&cropX1=16&cropX2=645&cropY1=127&cropY2=756
+241,241,Hu Baifan,Hu,hu-baifan,hu-baifan,1540,56,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a7cb6284bbe6f2652f508cd/416x416.jpg?background=000000&cropX1=2&cropX2=1125&cropY1=20&cropY2=1144
+242,242,Zhuang Kuilong,Zhuang,zhuang-kuilong,no-pic,1530,56,polyester,Manufacturing,M,
+243,243,Peng Hao,Peng,peng-hao,no-pic,1510,51,electronics,Manufacturing,M,
+244,243,Zeng Kaitian,Zeng,zeng-kaitian,no-pic,1510,44,online games,Technology,M,
+245,245,Hoi Kin Hong,Hoi,hoi-kin-hong,no-pic,1500,66,real estate,Real Estate,M,
+246,245,Huang Qiaoling,Huang,huang-qiaoling,huang-qiaoling,1500,60,amusement parks,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/56c68b36e4b062f6b59a1448/416x416.jpg?background=000000&cropX1=0&cropX2=731&cropY1=124&cropY2=856
+247,245,Li Yihai,Li,li-yihai,no-pic,1500,56,pharmaceuticals,Healthcare,M,
+248,245,Shuai Fangwen,Shuai,shuai-fangwen,no-pic,1500,52,pharmaceuticals,Healthcare,M,
+249,245,Xu Qiming,Xu,xu-qiming,xu-qiming,1500,55,"food, art",Diversified,M,//specials-images.forbesimg.com/imageserve/363e7bc321591a10e36706087ef904de/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=348&cropY2=1091
+250,245,Zhang Tao,Zhang,zhang-tao,no-pic,1500,46,e-commerce,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a875da14bbe6f2652f5cc16/416x416.jpg?background=000000&cropX1=790&cropX2=3782&cropY1=244&cropY2=3234
+251,251,Ruan Shuilong,Ruan,ruan-shuilong,no-pic,1490,83,chemicals,Manufacturing,M,
+252,251,Wang Jinshu,Wang,wang-jinshu,no-pic,1490,62,chemicals,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7cf76431358e4955acfc4b/416x416.jpg?background=000000&cropX1=0&cropX2=2832&cropY1=165&cropY2=2999
+253,251,Wu Yiling,Wu,wu-yiling,wu-yiling,1490,69,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/52fe6d2bf24e45432177784f7e1b8666/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=66&cropY2=810
+254,251,Zhou Hongyi,Zhou,zhou-hongyi,zhou-hongyi,1490,48,security software,Technology,M,//specials-images.forbesimg.com/imageserve/936450a91a016db56ea72c10985090a2/416x416.jpg?background=000000&cropX1=8&cropX2=733&cropY1=18&cropY2=743
+255,255,Min Luo,Luo,min-luo,no-pic,1480,36,Online finance,Finance and Investments,,
+256,255,Wang Jiufang,Wang,wang-jiufang,no-pic,1480,55,real estate,Real Estate,M,
+257,255,Wu Xu,Wu,wu-xu,no-pic,1480,55,real estate,Real Estate,M,
+258,258,Miao Hangen,Miao,miao-hangen,miao-hangen,1470,54,"textiles, petrochemicals",Diversified,M,
+259,258,Wang Qicheng,Wang,wang-qicheng,no-pic,1470,39,entertainment,Technology,M,//specials-images.forbesimg.com/imageserve/589de3ca4bbe6f0e5586748c/416x416.jpg?background=000000&cropX1=52&cropX2=661&cropY1=52&cropY2=661
+260,260,Li Zongsong,Li,li-zongsong,no-pic,1460,51,pharmaceuticals,Healthcare,M,
+261,260,Nan Cunhui,Nan,nan-cunhui,nan-cunhui,1460,55,power equipment,Manufacturing,M,//specials-images.forbesimg.com/imageserve/56290bf2e4b0ffa7afe625bf/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=377&cropY2=1120
+262,260,Zhou Liangzhang,Zhou,zhou-liangzhang,no-pic,1460,56,electrical equipment,Manufacturing,M,
+263,263,Jiang Zhaobai,Jiang,jiang-zhaobai,jiang-zhaobai,1440,55,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/562921a9e4b0ffa7afe6282b/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=13&cropY2=756
+264,263,Wang Jianyi,Wang,wang-jianyi,wang-jianyi,1440,56,fiber optic cables,Technology,M,
+265,263,Zhang Jingzhang,Zhang,zhang-jingzhang,no-pic,1440,83,precision machinery,Manufacturing,M,
+266,266,Lou Zhongfu,Lou,lou-zhongfu,lou-zhongfu,1430,65,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/562a8f82e4b0ffa7afe63754/416x416.jpg?background=000000&cropX1=121&cropX2=744&cropY1=187&cropY2=811
+267,266,Tang Yan,Tang,tang-yan,no-pic,1430,40,social media,Technology,M,
+268,266,Yu Rong,Yu,yu-rong,no-pic,1430,47,health clinics,Healthcare,M,
+269,269,Cai Dongqing,Cai,cai-dongqing-2,cai-dongqing-2,1420,49,animation,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/97e2cea696b6caa82e72ce79f52e4303/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=64&cropY2=807
+270,269,Lin Dingqiang,Lin,lin-dingqiang,no-pic,1420,52,real estate,Real Estate,M,
+271,269,Xiao Chunhong,Xiao,xiao-chunhong,no-pic,1420,51,real estate,Real Estate,M,
+272,272,Chen Ningning,Chen,chen-ningning,chen-ningning,1410,48,minerals,Metals & Mining,F,
+273,272,Jiang Xuefei,Jiang,jiang-xuefei,no-pic,1410,49,printed circuit boards,Technology,M,
+274,272,Zheng Jianjiang,Zheng,zheng-jianjiang,zheng-jianjiang,1410,58,electrical equipment,Manufacturing,M,//specials-images.forbesimg.com/imageserve/562a57ede4b0ffa7afe63004/416x416.jpg?background=000000&cropX1=105&cropX2=744&cropY1=82&cropY2=722
+275,275,Ou Zongrong,Ou,ou-zongrong,ou-zongrong,1400,55,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7ce3cd31358e4955acfbb2/416x416.jpg?background=000000&cropX1=11&cropX2=1812&cropY1=155&cropY2=1956
+276,275,Wang Linpeng,Wang,wang-linpeng,no-pic,1400,50,furniture retailing,Construction & Engineering,M,
+277,275,Zhou Yifeng,Zhou,zhou-yifeng-1,no-pic,1400,50,chemicals,Manufacturing,M,
+278,275,Zhou Zongwen,Zhou,zhou-zongwen,no-pic,1400,61,jewelry,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a8dfecaa7ea4316901410ba/416x416.jpg?background=000000&cropX1=16&cropX2=1798&cropY1=89&cropY2=1873
+279,279,Fu Mingkang,Fu,fu-mingkang,no-pic,1390,55,manufacturing,Manufacturing,M,
+280,280,Que Wenbin,Que,que-wenbin,no-pic,1380,55,pharmaceuticals,Healthcare,M,
+281,280,Wen Jianping,Wen,wen-jianping,wen-jianping,1380,56,sewage treatment,Service,M,//specials-images.forbesimg.com/imageserve/888de6700061e95179d28f706cfe2196/416x416.jpg?background=000000&cropX1=50&cropX2=697&cropY1=0&cropY2=648
+282,282,Bu Yang,Bu,bu-yang,no-pic-female,1370,,retail,Fashion & Retail,F,
+283,283,Wang Liping,Wang,wang-liping,no-pic,1360,52,hydraulic machinery,Manufacturing,M,
+284,284,Bo Shijiu,Bo,bo-shijiu,no-pic,1350,54,logsitics,Logistics,M,
+285,284,Zhao Weiguo,Zhao,zhao-weiguo,no-pic,1350,52,IT products,Technology,M,//specials-images.forbesimg.com/imageserve/589f2d6e31358e1a35ab274c/416x416.jpg?background=000000&cropX1=43&cropX2=703&cropY1=192&cropY2=853
+286,286,Fu Guangming,Fu,fu-guangming,fu-guangming,1340,65,poultry,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/562e5762e4b0ffa7afe645e2/416x416.jpg?background=000000&cropX1=0&cropX2=676&cropY1=171&cropY2=848
+287,286,Huang Xiaofen,Huang,huang-xiaofen,no-pic-female,1340,57,printed circuit boards,Technology,F,
+288,286,Huang Zhuangmian,Huang,huang-zhuangmian,no-pic,1340,48,logistics,Logistics,M,
+289,286,Li Jiaquan,Li,li-jiaquan,no-pic,1340,55,chemicals,Manufacturing,M,
+290,286,Shum Chiu Hung,Shum,shum-chiu-hung,no-pic,1340,49,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a8df65b31358e4955adff84/416x416.jpg?background=000000&cropX1=189&cropX2=1135&cropY1=0&cropY2=945
+291,291,Gao Yunfeng,Gao,gao-yunfeng,no-pic,1330,51,industrial lasers,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a8df770a7ea431690141002/416x416.jpg?background=000000&cropX1=187&cropX2=1715&cropY1=102&cropY2=1630
+292,291,Liu Zhenguo,Liu,liu-zhenguo,no-pic,1330,53,sewage treatment,Service,M,
+293,291,Su Rubo,Su,su-rubo,no-pic,1330,64,real estate,Real Estate,M,
+294,294,Jiang Ganjun,Jiang,jiang-ganjun,no-pic,1320,55,home & office products,Manufacturing,M,
+295,294,Wen Yibo,Wen,wen-yibo,wen-yibo,1320,53,wastewater treatment,Service,M,//specials-images.forbesimg.com/imageserve/5a7d08c7a7ea431690130db0/416x416.jpg?background=000000&cropX1=823&cropX2=3492&cropY1=0&cropY2=2667
+296,294,Yu Peidi,Yu,yu-peidi,yu-peidi,1320,59,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/1bd57d61bff2fbf42cc46b5d3d2a4bd6/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=3&cropY2=747
+297,294,Zhou Yongli,Zhou,zhou-yongli,no-pic,1320,64,conglomerate,Manufacturing,M,//specials-images.forbesimg.com/imageserve/589f2ffda7ea431f321947f2/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=5&cropY2=746
+298,298,Gu Wei,Gu,gu-wei,no-pic,1310,53,consumer electronics,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a97219931358e79a28a9b01/416x416.jpg?background=000000&cropX1=120&cropX2=4005&cropY1=549&cropY2=4432
+299,298,Shao Qinxiang,Shao,shao-qinxiang,no-pic,1310,64,diversified,Manufacturing,M,
+300,298,Sit Kwong Lam,Sit,sit-kwong-lam,sit-kwong-lam,1310,50,"oil, transportation",Energy,M,//specials-images.forbesimg.com/imageserve/5a7e75d331358e4955ad1477/416x416.jpg?background=000000&cropX1=292&cropX2=2945&cropY1=677&cropY2=3328
+301,298,Xu Ziquan,Xu,xu-ziquan,no-pic,1310,60,software,Technology,M,
+302,298,Yan Yude,Yan,yan-yude,no-pic,1310,58,private schools,Service,M,
+303,303,Liang Guangwei,Liang,liang-guangwei,no-pic,1300,55,conglomerate,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7cd16631358e4955acfa40/416x416.jpg?background=000000&cropX1=459&cropX2=3130&cropY1=11&cropY2=2684
+304,303,Ou Xueming,Ou,ou-xueming,no-pic,1300,70,real estate,Real Estate,M,
+305,303,Tang Jianfang,Tang,tang-jianfang,no-pic-female,1300,,packaged foods,Food and Beverage,F,
+306,303,Wang Yong,Wang,wang-yong,wang-yong,1300,68,food sweeteners,Food and Beverage,M,
+307,307,Don Gao,Gao,don-gao,no-pic,1290,53,power tools,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a971fefa7ea434a0c279871/416x416.jpg?background=000000&cropX1=80&cropX2=858&cropY1=571&cropY2=1348
+308,307,Liu Jincheng,Liu,liu-jincheng,no-pic,1290,54,lithium batteries,Technology,M,//specials-images.forbesimg.com/imageserve/5a8df936a7ea431690141033/416x416.jpg?background=000000&cropX1=1340&cropX2=4798&cropY1=0&cropY2=3456
+309,307,Zan Shengda,Zan,zan-shengda,zan-shengda,1290,55,diversified,Diversified,M,//specials-images.forbesimg.com/imageserve/5a7d1d8c4bbe6f2652f51243/416x416.jpg?background=000000&cropX1=216&cropX2=1272&cropY1=11&cropY2=1067
+310,307,Zhou Bajin,Zhou,zhou-bajin,no-pic,1290,83,auto parts,Manufacturing,M,
+311,311,Li Jun,Li,li-jun,no-pic,1280,54,electronics,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a8df7fda7ea43169014100c/416x416.jpg?background=000000&cropX1=13&cropX2=2109&cropY1=287&cropY2=2383
+312,311,Li Rucheng,Li,li-rucheng,li-rucheng,1280,67,apparel,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7cca7631358e4955acf926/416x416.jpg?background=000000&cropX1=1354&cropX2=3459&cropY1=5&cropY2=2108
+313,311,Lu Di,Lu,lu-di,no-pic,1280,,drones,Technology,M,
+314,311,Wang Jing,Wang,wang-jing,wang-jing,1280,46,telecom services,Telecom,M,//specials-images.forbesimg.com/imageserve/58864f9c5ce6b0e1785051fdc8c26f09/416x416.jpg?background=000000&cropX1=6&cropX2=740&cropY1=153&cropY2=888
+315,315,Cai Rongjun,Cai,cai-rongjun,no-pic,1270,46,electronic components,Technology,M,
+316,316,Qin Qingping,Qin,qin-qingping,no-pic,1260,55,coal & coke,Energy,M,
+317,317,King Pak Fu,King,king-pak-fu,king-pak-fu,1250,49,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589f64fa4bbe6f0e55868ce7/416x416.jpg?background=000000&cropX1=134&cropX2=609&cropY1=68&cropY2=543
+318,317,You Xiaoping,You,you-xiaoping,you-xiaoping,1250,60,"chemicals, spandex",Manufacturing,M,
+319,317,Zhang Yubai,Zhang,zhang-yubai,no-pic,1250,54,wine,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/5a8dfe6a4bbe6f2652f62d58/416x416.jpg?background=000000&cropX1=0&cropX2=720&cropY1=44&cropY2=764
+320,320,Lin Fanlian,Lin,lin-fanlian,no-pic,1240,57,gas,Energy,M,
+321,320,Lu Renjun,Lu,lu-renjun,no-pic,1240,68,,Manufacturing,M,
+322,320,Wang Yanqing,Wang,wang-yanqing-1,no-pic-female,1240,72,carbon fiber products,Manufacturing,F,
+323,323,Chen Xiaxin,Chen,chen-xiaxin,no-pic,1230,56,industrial machinery,Diversified,M,
+324,324,Han Tao,Han,han-tao,no-pic,1220,58,electronics components,Manufacturing,M,
+325,324,He Simo,He,he-simo,no-pic,1220,53,power supply manufacturer,Manufacturing,M,
+326,324,Hu Keqin,Hu,hu-keqin,no-pic,1220,60,chemicals,Diversified,M,//specials-images.forbesimg.com/imageserve/589cfe944bbe6f0e55866af7/416x416.jpg?background=000000&cropX1=111&cropX2=591&cropY1=276&cropY2=756
+327,324,Ni Zhaoxing,Ni,ni-zhaoxing,ni-zhaoxing,1220,63,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/43372ee8b6ecf8e8d8264ccff8e54710/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=230&cropY2=974
+328,324,Zhang Zhangsun,Zhang,zhang-zhangsun,zhang-zhangsun,1220,62,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/d1c69bd9f67afdb1778c9bb7d0975966/416x416.jpg?background=000000&cropX1=188&cropX2=615&cropY1=114&cropY2=541
+329,329,Cao Kejian,Cao,cao-kejian,cao-kejian,1210,56,air compressors,Manufacturing,M,//specials-images.forbesimg.com/imageserve/49e29e276e6cce1a013720fcdb4c4bcc/416x416.jpg?background=000000&cropX1=0&cropX2=742&cropY1=127&cropY2=870
+330,329,Fu Meicheng,Fu,fu-meicheng,fu-meicheng,1210,61,"TV shows, movies",Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/c117a242f07351ebadec8a87798f7239/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=89&cropY2=832
+331,329,Huang Qisen,Huang,huang-qisen,huang-qisen,1210,54,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/1a05b8986b646b2656b8072ac5fd5f8b/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=35&cropY2=778
+332,329,Wan Long,Wan,wan-long,wan-long,1210,78,food,Food and Beverage,M,
+333,333,Cheng Wei,Cheng,cheng-wei,cheng-wei,1200,36,ride-hailing service,Service,M,//specials-images.forbesimg.com/imageserve/59162c8931358e03e5590c24/416x416.jpg?background=000000&cropX1=1046&cropX2=3177&cropY1=126&cropY2=2256
+334,333,Lin Yi,Lin,lin-yi,no-pic,1200,,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589d2183a7ea431f321929d0/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=129&cropY2=869
+335,333,Neil Shen,Shen,neil-shen,neil-shen,1200,51,venture capital investing,Finance and Investments,M,//specials-images.forbesimg.com/imageserve/56ec6894e4b0c144a7f79796/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=0&cropY2=743
+336,333,Sun Yinhuan,Sun,sun-yinhuan,no-pic,1200,69,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/589db1eca7ea431f32192f04/416x416.jpg?background=000000&cropX1=89&cropX2=730&cropY1=105&cropY2=746
+337,333,Jane Yan,Yan,jane-yan,jane-yan,1200,49,software,Technology,F,//specials-images.forbesimg.com/imageserve/58c32b964bbe6f0e55885cca/416x416.jpg?background=000000&cropX1=0&cropX2=416&cropY1=0&cropY2=416
+338,333,Yang Tingdong,Yang,yang-tingdong,no-pic,1200,58,brewery,Food and Beverage,M,//specials-images.forbesimg.com/imageserve/5a8dfb21a7ea43169014106c/416x416.jpg?background=000000&cropX1=5&cropX2=2336&cropY1=250&cropY2=2583
+339,339,Huang Li,Huang,huang-li-1,huang-li-1,1190,55,imaging systems,Technology,M,//specials-images.forbesimg.com/imageserve/589d00f431358e1a35ab0a5f/416x416.jpg?background=000000&cropX1=5&cropX2=744&cropY1=23&cropY2=763
+340,339,Lee Yin Yee,Lee,lee-yin-yee,no-pic,1190,67,glass,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a875a434bbe6f2652f5cb99/416x416.jpg?background=000000&cropX1=360&cropX2=1479&cropY1=168&cropY2=1288
+341,339,Wang Wenbiao,Wang,wang-wenbiao,wang-wenbiao,1190,62,"natural gas, fertilizers",Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a875c0f4bbe6f2652f5cbc2/416x416.jpg?background=000000&cropX1=513&cropX2=2757&cropY1=182&cropY2=2424
+342,339,Yang Zhimao,Yang,yang-zhimao,no-pic,1190,56,"utilities, real estate",Diversified,M,
+343,343,Ou Zonghong,Ou,ou-zonghong,no-pic,1180,49,real estate,Real Estate,M,
+344,344,Ai Lihua,Ai,ai-lihua,no-pic,1170,60,electrical equipment,Manufacturing,M,
+345,344,Chen Bo,Chen,chen-bo,no-pic,1170,48,wind power generation,Energy,M,
+346,344,Mi Enhua,Mi,mi-enhua,no-pic,1170,60,retail,Fashion & Retail,M,
+347,344,Shang Jiyong,Shang,shang-jiyong,no-pic,1170,51,"tires, chemicals",Diversified,M,
+348,344,Tian Ming,Tian,tian-ming,no-pic,1170,65,measuring instruments,Technology,M,
+349,344,Xiu Laigui,Xiu,xiu-laigui,xiu-laigui,1170,64,pharmaceuticals,Healthcare,M,//specials-images.forbesimg.com/imageserve/5a7d1414a7ea431690130e10/416x416.jpg?background=000000&cropX1=11&cropX2=2402&cropY1=394&cropY2=2784
+350,344,Yang Shaopeng,Yang,yang-shaopeng,no-pic,1170,61,Shipping,Logistics,M,//specials-images.forbesimg.com/imageserve/5a875cf5a7ea43169013b8e5/416x416.jpg?background=000000&cropX1=394&cropX2=2762&cropY1=290&cropY2=2656
+351,344,Zhou Wenyu,Zhou,zhou-wenyu,no-pic,1170,54,real estate,Real Estate,M,
+352,352,Chen Dakui,Chen,chen-dakui,no-pic,1160,67,shrink-wrap film,Manufacturing,M,
+353,352,Hon Kwok Lung,Hon,hon-kwok-lung,no-pic,1160,63,real estate,Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5a7e6b7ba7ea431690132536/416x416.jpg?background=000000&cropX1=657&cropX2=3484&cropY1=6&cropY2=2832
+354,352,Huang Bingwen,Huang,huang-bingwen,no-pic,1160,65,packaging,Manufacturing,M,
+355,352,Lin Tianfu,Lin,lin-tianfu,lin-tianfu,1160,56,"footwear, apparel",Fashion & Retail,M,//specials-images.forbesimg.com/imageserve/5628f9d6e4b0ffa7afe624d4/416x416.jpg?background=000000&cropX1=79&cropX2=744&cropY1=3&cropY2=669
+356,352,Liu Xuejing,Liu,liu-xuejing,liu-xuejing,1160,68,"copper, poultry",Diversified,M,//specials-images.forbesimg.com/imageserve/5a7cdbe9a7ea431690130bc1/416x416.jpg?background=000000&cropX1=269&cropX2=1703&cropY1=0&cropY2=1434
+357,352,Wang Han,Wang,wang-han,no-pic,1160,31,airline,Diversified,M,
+358,352,Xia Zuoquan,Xia,xia-zuoquan,xia-zuoquan,1160,57,automobiles,Automotive,M,//specials-images.forbesimg.com/imageserve/43cf0251db56b4feefcd4ddd877d09ed/416x416.jpg?background=000000&cropX1=3&cropX2=744&cropY1=31&cropY2=772
+359,352,Yan Xijun,Yan,yan-xijun,yan-xijun,1160,65,pharmaceuticals,Healthcare,M,
+360,352,Yao Jinbo,Yao,yao-jinbo,yao-jinbo,1160,43,online marketplace,Technology,M,
+361,352,Zhou Liwu,Zhou,zhou-liwu,no-pic,1160,56,water filters,Manufacturing,M,
+362,362,Li Guoqiang,Li,li-guoqiang,no-pic,1150,55,auto dealerships,Automotive,M,
+363,362,Li Xuhui,Li,li-xuhui,no-pic-female,1150,50,soy sauce maker,Food and Beverage,F,
+364,362,Liu Bing,Liu,liu-bing,no-pic,1150,50,retail,Fashion & Retail,M,
+365,362,Ma Yunsheng,Ma,ma-yunsheng,no-pic,1150,56,energy,Diversified,M,//specials-images.forbesimg.com/imageserve/589d2dde31358e1a35ab0bd8/416x416.jpg?background=000000&cropX1=8&cropX2=723&cropY1=0&cropY2=715
+366,362,Peng Jianhu,Peng,peng-jianhu,no-pic,1150,62,tourism,Media & Entertainment,M,//specials-images.forbesimg.com/imageserve/5a7ce4d34bbe6f2652f50f9c/416x416.jpg?background=000000&cropX1=1566&cropX2=2400&cropY1=491&cropY2=1325
+367,362,Wan Lianbu,Wan,wan-lianbu,no-pic,1150,53,fertilizers,Manufacturing,M,
+368,362,Wang Junjin,Wang,wang-junjin,wang-junjin,1150,50,airline,Service,M,//specials-images.forbesimg.com/imageserve/56c74c69e4b062f6b59a1c03/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=2&cropY2=746
+369,362,Zhang Zhirong,Zhang,zhang-zhirong,zhang-zhirong,1150,50,"real estate, shipbuilding",Diversified,M,//specials-images.forbesimg.com/imageserve/de34525958dbc6544d59b65b8b7f34a2/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=0&cropY2=744
+370,370,Cao Renxian,Cao,cao-renxian,no-pic,1140,50,photovoltaic equipment,Energy,M,
+371,370,Chu Jinfu,Chu,chu-jinfu,no-pic,1140,61,electrical equipment,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7c86f34bbe6f2652f500f2/416x416.jpg?background=000000&cropX1=9&cropX2=1956&cropY1=365&cropY2=2313
+372,370,Lucy Peng,Peng,lucy-peng,lucy-peng,1140,46,e-commerce,Technology,F,//specials-images.forbesimg.com/imageserve/01ced083e93c20caaf0fcb876be45608/416x416.jpg?background=000000&cropX1=2&cropX2=744&cropY1=0&cropY2=743
+373,373,Fang Tonghua,Fang,fang-tonghua,no-pic,1130,56,pharmaceuticals,Healthcare,M,
+374,373,He Yamin,He,he-yamin,no-pic,1130,61,manufacturing,Manufacturing,M,
+375,373,Li Guangyu,Li,li-guangyu,no-pic,1130,55,education,Service,M,
+376,373,Wu Daohong,Wu,wu-daohong,no-pic,1130,53,energy services,Energy,M,//specials-images.forbesimg.com/imageserve/5a7d0a5331358e4955acfd18/416x416.jpg?background=000000&cropX1=167&cropX2=2744&cropY1=6&cropY2=2584
+377,377,Chen Jinsong,Chen,chen-jinsong,chen-jinsong,1120,55,real estate,Real Estate,M,
+378,377,Fu Kwan,Fu,fu-kwan,fu-kwan,1120,61,"real estate, diversified",Diversified,M,//specials-images.forbesimg.com/imageserve/562a69d7e4b0ffa7afe6323f/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=50&cropY2=794
+379,377,Swift Xie,Xie,swift-xie,no-pic,1120,,drones,Technology,M,
+380,377,Xu Jingen,Xu,xu-jingen,no-pic,1120,49,precision metallic components,Manufacturing,M,
+381,377,Zhu Xingming,Zhu,zhu-xingming,no-pic,1120,51,electrical equipment,Manufacturing,M,
+382,382,Li Zhen,Li,li-zhen,no-pic,1110,54,lithium batteries,Manufacturing,M,
+383,383,Jin Huiming,Jin,jin-huiming,no-pic,1100,66,real estate,Real Estate,M,
+384,383,Lin Zhixiong,Lin,lin-zhixiong,no-pic,1100,45,medical devices,Healthcare,M,
+385,383,Jonathan Lu,Lu,jonathan-lu,no-pic,1100,50,e-commerce,Technology,M,//specials-images.forbesimg.com/imageserve/5a7cc1184bbe6f2652f50974/416x416.jpg?background=000000&cropX1=1164&cropX2=2583&cropY1=164&cropY2=1582
+386,383,Lu Yonghua,Lu,lu-yonghua,lu-yonghua,1100,55,electronics,Technology,M,
+387,383,Chanchai Ruayrungruang,Ruayrungruang,chanchai-ruayrungruang,chanchai-ruayrungruang,1100,65,real estate,Real Estate,M,//specials-images.forbesimg.com/imageserve/5a7bc0924bbe6f2652f4f4db/416x416.jpg?background=000000&cropX1=0&cropX2=840&cropY1=100&cropY2=940
+388,383,Xue Hua,Xue,xue-hua,no-pic,1100,49,Agribusiness,Manufacturing,M,
+389,383,Yang Jianxin,Yang,yang-jianxin,no-pic,1100,49,apparel,Technology,M,
+390,383,Yao Xinyi,Yao,yao-xinyi,yao-xinyi,1100,54,air conditioning,Diversified,M,//specials-images.forbesimg.com/imageserve/064a602f59f8656c7e2a1765a579be37/416x416.jpg?background=000000&cropX1=0&cropX2=744&cropY1=219&cropY2=963
+391,391,Li Qiong,Li,li-qiong,no-pic-female,1090,41,online games,Technology,F,
+392,391,Lo Siu Yu,Lo,lo-siu-yu,no-pic,1090,49,conglomerate,Diversified,M,
+393,393,Fang Hongbo,Fang,fang-hongbo,no-pic,1080,52,home appliances,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a8751a34bbe6f2652f5cacf/416x416.jpg?background=000000&cropX1=863&cropX2=3423&cropY1=109&cropY2=2667
+394,393,Wen Pengcheng,Wen,wen-pengcheng,no-pic,1080,56,agribusiness,Food and Beverage,M,
+395,395,Cai Xiaoru,Cai,cai-xiaoru,no-pic,1070,39,electronic components,Technology,M,
+396,395,Li Weiguo,Li,li-weiguo,no-pic,1070,54,construction materials,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a8df8614bbe6f2652f62c5c/416x416.jpg?background=000000&cropX1=19&cropX2=2906&cropY1=905&cropY2=3794
+397,395,Lin Zhijun,Lin,lin-zhijun,no-pic,1070,43,medical devices,Healthcare,M,
+398,395,Liu Zhendong,Liu,liu-zhendong,no-pic,1070,48,industrial parks,Service,M,
+399,395,Wang Zhenghua,Wang,wang-zhenghua,wang-zhenghua,1070,74,budget airline,Service,M,//specials-images.forbesimg.com/imageserve/5a7d055da7ea431690130d9b/416x416.jpg?background=000000&cropX1=881&cropX2=4133&cropY1=14&cropY2=3264
+400,395,Zhang Xinghai,Zhang,zhang-xinghai,no-pic,1070,56,machinery,Manufacturing,M,//specials-images.forbesimg.com/imageserve/5a7d23ac4bbe6f2652f51271/416x416.jpg?background=000000&cropX1=4&cropX2=1645&cropY1=43&cropY2=1684
