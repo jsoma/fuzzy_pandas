@@ -1,6 +1,6 @@
 # fuzzy_pandas
 
-A razor-thin layer over [csvmatch](https://github.com/maxharlow/csvmatch/) that allows you to do fuzzy mathing with pandas dataframes.
+A razor-thin layer over [csvmatch](https://github.com/maxharlow/csvmatch/) that allows you to do fuzzy matching with pandas dataframes.
 
 ## Installation
 
