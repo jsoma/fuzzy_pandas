@@ -61,6 +61,8 @@ You can find examples, including different types of matches (edit distance, phon
 
 ## Options
 
+All of these options can be sent as arguments to `fpd.fuzzy_merge`.
+
 * **left** : DataFrame
 * **right** : DataFrame
     - Object to merge left with
